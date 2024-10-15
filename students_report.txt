@@ -1,0 +1,20 @@
+==========================================================================================
+No        Name                   Section        Time        Checked     Cause               
+==========================================================================================
+1         lanfha kluenpetch        3            08:10         1          -                   
+2         Natthakrit Pumbang       3            08:00         1          -                   
+3         Thanakorn Pichai         3            08:25         1          -                   
+4         phutthiphong tan         3            08:29         1          -                   
+Total students on time: 4
+------------------------------------------------------------------------------------------
+1         Komchan Thipsot          1            08:45         1          -                   
+2         Anayot Saiwong           3            08:35         1          -                   
+3         Jirayu Nuakate           3            08:45         1          -                   
+Total late students: 3
+------------------------------------------------------------------------------------------
+1         Phiyada Changnoi         3            -             0          ลาป่วย              
+2         Teerayut Pakaew          3            -             0          ลาป่วย              
+3         Puripat Dohkhunthod      3            -             0          ลาป่วย              
+Total absent students: 3
+==========================================================================================
+Total number of students: 10
